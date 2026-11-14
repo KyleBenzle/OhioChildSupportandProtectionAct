@@ -1,6 +1,3 @@
-Here is the text formatted in GitHub-Flavored Markdown (GFM), with hard line breaks unwrapped for clean rendering and footnotes properly structured for GitHub READMEs:
-
-```markdown
 # Child Support and Protection Act
 ## Sponsor Brief
 
@@ -82,5 +79,3 @@ The Act amends nine sections and enacts five, using existing Ohio agencies, proc
 [^14]: R.C. 3109.05(D).
 [^15]: R.C. 2919.23; *Toledo v. Parra*, 2013-Ohio-3182 (6th Dist.).
 ```[cite: 1]
-
-```
